@@ -95,23 +95,4 @@ sklearn==0.0
 smmap==5.0.0
 stack-data==0.2.0
 streamlit==1.5.1
-tenacity==8.0.1
-terminado==0.8.3
-testpath==0.4.4
-threadpoolctl==2.1.0
-toml==0.10.1
-tomli==2.0.1
-toolz==0.10.0
-tornado==5.1.1
-traitlets==4.3.3
-typing_extensions==4.1.1
-tzdata==2021.5
-tzlocal==2.1
-urllib3==1.25.9
-validators==0.15.0
-watchdog==0.10.2
-wcwidth==0.2.4
-webencodings==0.5.1
-Werkzeug==2.0.3
-widgetsnbextension==3.5.1
 
