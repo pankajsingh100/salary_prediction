@@ -1,6 +1,2 @@
-pandas
-numpy
-matplotlib
-plotly
-sklearn
 streamlit
+requests
